@@ -32,21 +32,16 @@
 // 14, 5 => нет, 4
 //  16, 8 => да 
 // 4, 3  => нет, 1
-int a = 4;
-int b = 3;
-if (a % b == 0)
-{
-    Console.WriteLine($"{a} este multiplu {b}");
-}
-else
-{
-    Console.WriteLine($"rest {a} / {b} = {a % b}");
-}
-
-
-
-
-
+// int a = 4;
+// int b = 3;
+// if (a % b == 0)
+// {
+//     Console.WriteLine($"{a} este multiplu {b}");
+// }
+// else
+// {
+//     Console.WriteLine($"rest {a} / {b} = {a % b}");
+// }
 
 // SARCINA 4
 // Напишите программу, которая выводит третью  цифру c конца заданного 
