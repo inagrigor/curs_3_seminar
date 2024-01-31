@@ -22,3 +22,21 @@
 // int result = (int)Math.Pow(secondDigit, thirdDigit);
 
 // Console.WriteLine($" {secondDigit} ^ {thirdDigit} = {result}");
+
+// Напишите программу, которая выводит третью  цифру c конца заданного 
+// числа или сообщает, что третьей цифры нет. 
+// 456  =>  4 
+// 7812  =>  8 
+// 91  =>  Третьей цифры нет
+
+// int number = 91;
+// if (number >= 100)
+// {
+//     int result = number / 100 % 10;
+//     Console.WriteLine($"A III -a cifra din urma: {result}");
+// }
+// else 
+// {
+// Console.WriteLine("nu este a III -a cifra");
+// }
+
