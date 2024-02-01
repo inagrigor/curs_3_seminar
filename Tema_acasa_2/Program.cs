@@ -43,3 +43,26 @@
 // {
 //     Console.WriteLine("IV sfert de coordonate");
 // }
+
+// SARCINA III
+//  Напишите программу, которая принимает на вход целое число из отрезка [10, 99] и показывает 
+//  наибольшую цифру числа.
+
+//  40  => 4 
+//  96  => 9 
+//  72  => 7
+
+// int number = 72;
+// int firstDigit = number / 10; 
+// int secondDigit = number % 10; 
+// int max = firstDigit;
+
+
+//  if (max < secondDigit)
+//  {
+//     max = secondDigit;
+//  }
+
+// {
+//     Console.WriteLine(max);
+// }

@@ -52,16 +52,16 @@
 // 782 => 9
 // 918 => 17
 
- int number = 357;
-if (number >= 100 && number <= 999) // 100...999
-// && - "si"
-// % - остаток  от деления
- {
-    int firstDigit = number / 100; // 357 / 100 = 3
-     int thirdDigit = number % 10; // 357 % 10 = 7
-      Console.WriteLine("Результат: " + (firstDigit + thirdDigit));
-}
-else
-{
-   Console.WriteLine("Error!");
-    }
+//  int number = 357;
+// if (number >= 100 && number <= 999) // 100...999
+// // && - "si"
+// // % - остаток  от деления
+//  {
+//     int firstDigit = number / 100; // 357 / 100 = 3
+//      int thirdDigit = number % 10; // 357 % 10 = 7
+//       Console.WriteLine("Результат: " + (firstDigit + thirdDigit));
+// }
+// else
+// {
+//    Console.WriteLine("Error!");
+//     }
