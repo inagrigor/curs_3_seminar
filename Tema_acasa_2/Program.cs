@@ -25,21 +25,21 @@
 // -3, -2   =>   3 
 // 4, -2    =>   4
 
-int x = 5;
-int y = -3;
-if (x > 0 && y > 0)
-{
-    Console.WriteLine("I Sfert de coordonate");
-}
-else if (x < 0 && y < 0)
-{
-    Console.WriteLine("III Sfert de coordonate");
-}
-else if (x > 0 && y < 0)
-{
-    Console.WriteLine("IV Sfert de coordonate");
-}
-else if (x < 0 && y > 0)
-{
-    Console.WriteLine("II Sfert de coordonate");
-}
+// int x = -2;
+// int y = -3;
+// if (x > 0 && y > 0)
+// {
+//     Console.WriteLine("I sfert de coordonate");
+// }
+// else if (x < 0 && y > 0)
+// {
+//     Console.WriteLine("II sfert de coordonate");
+// }
+// else if (x < 0 && y < 0)
+// {
+//     Console.WriteLine("III sfert de coordonate");
+// }
+// else if (x > 0 && y < 0)
+// {
+//     Console.WriteLine("IV sfert de coordonate");
+// }
