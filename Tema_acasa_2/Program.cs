@@ -80,3 +80,37 @@
 // {
 //     Console.WriteLine(secondNumber);
 // }
+
+
+// SARCINA 4
+// Напишите программу, которая на вход принимает натуральное число N, 
+// а на выходе показывает его цифры через запятую.
+
+// 568  => 5,6,8 
+// 8    => 8 
+// 9542 => 9,5,4,2
+
+// int N = 9;
+// int divizor = 1;
+// int currentDigit = N % 10;
+
+// while (N / divizor >= 10)
+//     {
+//         divizor = divizor * 10;
+//     }
+       
+// while (divizor >= 1)
+// {
+//     currentDigit = (int)(N / divizor);
+//     Console.Write(currentDigit);
+//     N = N % divizor;
+//     divizor = divizor / 10;
+//     if (divizor > 0) 
+//      {
+//         Console.Write(",");
+//     }
+
+// }
+
+       
+
