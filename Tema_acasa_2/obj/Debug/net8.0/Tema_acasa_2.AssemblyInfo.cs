@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Tema_acasa_2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bc9e680532f4b8e7957be7c361367eeda4cd4ad6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5cd78b273e8f208379ef1613758275ab09edb1bd")]
 [assembly: System.Reflection.AssemblyProductAttribute("Tema_acasa_2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Tema_acasa_2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
