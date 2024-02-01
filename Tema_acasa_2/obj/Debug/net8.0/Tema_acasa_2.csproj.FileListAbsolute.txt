@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\curs_3_seminar_1\Tema_acasa_2\bin\Debug\net8.0\Tema_acasa_2.exe
+C:\Users\PC\Desktop\curs_3_seminar_1\Tema_acasa_2\bin\Debug\net8.0\Tema_acasa_2.deps.json
+C:\Users\PC\Desktop\curs_3_seminar_1\Tema_acasa_2\bin\Debug\net8.0\Tema_acasa_2.runtimeconfig.json
+C:\Users\PC\Desktop\curs_3_seminar_1\Tema_acasa_2\bin\Debug\net8.0\Tema_acasa_2.dll
+C:\Users\PC\Desktop\curs_3_seminar_1\Tema_acasa_2\bin\Debug\net8.0\Tema_acasa_2.pdb
+C:\Users\PC\Desktop\curs_3_seminar_1\Tema_acasa_2\obj\Debug\net8.0\Tema_acasa_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\curs_3_seminar_1\Tema_acasa_2\obj\Debug\net8.0\Tema_acasa_2.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\curs_3_seminar_1\Tema_acasa_2\obj\Debug\net8.0\Tema_acasa_2.AssemblyInfo.cs
+C:\Users\PC\Desktop\curs_3_seminar_1\Tema_acasa_2\obj\Debug\net8.0\Tema_acasa_2.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\curs_3_seminar_1\Tema_acasa_2\obj\Debug\net8.0\Tema_acasa_2.sourcelink.json
+C:\Users\PC\Desktop\curs_3_seminar_1\Tema_acasa_2\obj\Debug\net8.0\Tema_acasa_2.dll
+C:\Users\PC\Desktop\curs_3_seminar_1\Tema_acasa_2\obj\Debug\net8.0\refint\Tema_acasa_2.dll
+C:\Users\PC\Desktop\curs_3_seminar_1\Tema_acasa_2\obj\Debug\net8.0\Tema_acasa_2.pdb
+C:\Users\PC\Desktop\curs_3_seminar_1\Tema_acasa_2\obj\Debug\net8.0\Tema_acasa_2.genruntimeconfig.cache
+C:\Users\PC\Desktop\curs_3_seminar_1\Tema_acasa_2\obj\Debug\net8.0\ref\Tema_acasa_2.dll
