@@ -66,3 +66,17 @@
 // {
 //     Console.WriteLine(max);
 // }
+
+// Varianta II, Sarcina 3
+
+// int number = 96;
+// int firstNumber = number / 10;
+// int secondNumber = number % 10;
+// if (firstNumber > secondNumber)
+// {
+//     Console.WriteLine(firstNumber);
+// }
+// else
+// {
+//     Console.WriteLine(secondNumber);
+// }
