@@ -61,12 +61,14 @@
 // [1 3 2 4 2 3] => [3 6 8]
 // [2 3 1 7 5 6 3] => [6 18 5] (элемент 7 не имеет пары)
 
-int[] array = [2, 3, 1, 7, 5, 6, 3];
-int[] result = new int[array.Length / 2];
+// int[] array = [2, 3, 1, 7, 5, 6, 3];
+// int[] result = new int[array.Length / 2];
 
-for (int i = 0, j = array.Length - 1; i < result.Length; i++, j--)
-{
-    result[i] = array[i] * array[j];
-}
-Console.WriteLine($"result: [ {string.Join("; ", result)} ]");
+// for (int i = 0, j = array.Length - 1; i < result.Length; i++, j--)
+// {
+//     result[i] = array[i] * array[j];
+// }
+// Console.WriteLine($"result: [ {string.Join("; ", result)} ]");
+
+
 
