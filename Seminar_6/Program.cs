@@ -43,29 +43,29 @@
 // Выяснить, сколько среди введённых букв гласных.  
 
 
-int GetVovelsCount(string str)
-{
-    string vovels = "aoeuyi";
-    int vovelsCount = 0;
-    foreach (char symbol in str)
-    {
-        foreach (char vovel in vovels)
-        {
-            if (symbol == vovel)
-            {
-                vovelsCount++;
-                break;
-            }
+// int GetVovelsCount(string str)
+// {
+//     string vovels = "aoeuyi";
+//     int vovelsCount = 0;
+//     foreach (char symbol in str)
+//     {
+//         foreach (char vovel in vovels)
+//         {
+//             if (symbol == vovel)
+//             {
+//                 vovelsCount++;
+//                 break;
+//             }
 
-        }
+//         }
       
-    }
-      return vovelsCount;
-}
-Console.Write("Introduceti rindul: ");
-string inputString = Console.ReadLine();
-inputString = inputString.ToLower();
-Console.WriteLine($" In rindul: {inputString} in registrul jos : {GetVovelsCount(inputString)} litere vocale");
+//     }
+//       return vovelsCount;
+// }
+// Console.Write("Introduceti rindul: ");
+// string inputString = Console.ReadLine();
+// inputString = inputString.ToLower();
+// Console.WriteLine($" In rindul: {inputString} in registrul jos : {GetVovelsCount(inputString)} litere vocale");
 
 
 
